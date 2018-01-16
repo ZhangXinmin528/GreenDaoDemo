@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GreenDaoDemo</string>
+    <string name="main_user_name">姓名：</string>
+    <string name="main_user_name_">姓名：%1$s</string>
+    <string name="main_hint_name">请输入姓名</string>
+    <string name="main_user_sex">性别：</string>
+    <string name="main_user_sex_">性别：%1$s</string>
+    <string name="main_hint_sex">请输入性别</string>
+    <string name="main_user_desc">介绍：</string>
+    <string name="main_user_desc_">介绍：%1$s</string>
+    <string name="main_hint_desc">请自我介绍</string>
+    <string name="main_user_address">地址：</string>
+    <string name="main_user_address_">地址：%1$s</string>
+    <string name="main_hint_address">请填写地址</string>
+    <string name="all_add">添加</string>
+    <string name="all_display">查看</string>
+
+</resources>
